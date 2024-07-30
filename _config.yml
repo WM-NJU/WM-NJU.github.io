@@ -6,7 +6,7 @@ url: https://wm-nju.github.io/
 
 # Owner/author information
 owner:
-  name: Wei Meng
+  name:   魏猛
   avatar: wm.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: 569101747@qq.com
@@ -36,13 +36,13 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: 个人介绍
     url: /
   # - title: Teams
   #   url: /teams/
-  - title: Publications
+  - title: 论文成果
     url: /publications/
-  - title: Awards
+  - title: 科研项目
     url: /awards/
   # - title: Hobbies
   #   url: /hobbies/
