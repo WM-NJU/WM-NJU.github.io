@@ -1,3 +1,9 @@
+---
+layout: page
+permalink: /publications/index.html
+title: Publications
+---
+
 ### 论文：
 
 1. **Meng Wei,** Jiangang Xu*. Assessing road network resilience in disaster areas from a complex network perspective: A real-life case study from China[J]. *International Journal of Disaster Risk Reduction*, 2024, 100: 104167.**（中科院一区****Top****）**
