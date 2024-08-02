@@ -2,13 +2,11 @@
 layout: page
 ---
 
-# About Me
+# 简介
 
-Here is **Wei Meng (魏猛)**.
+​	Hi~ 我是**魏猛**，就读于南京大学建筑与城市规划学院城乡规划专业，目前是博士四年级。我硕士就读于重庆大学建筑城规学院城乡规划专业。我的硕士导师是黄勇教授，博士导师是徐建刚教授。我的研究兴趣如下：**气候变化背景下的国土空间可持续发展**，包括绿色可持续研究（**聚焦区域碳排放影响机制**）、安全可持续研究（**聚焦交通网络韧性**）等。
 
-I am a final-year undergrad majoring in EECS at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an AAAI & KDD UC Scholar.
-
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+​	我的电子邮件：569101747@qq.com，欢迎与我交流合作！
 
 ## Academic Background
 
