@@ -1,44 +1,45 @@
----
-layout: page
-permalink: /publications/index.html
-title: Publications
----
+### 论文：
 
-> Lastest Update: 14th May 2024&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+1. **Meng Wei,** Jiangang Xu*. Assessing road network resilience in disaster areas from a complex network perspective: A real-life case study from China[J]. *International Journal of Disaster Risk Reduction*, 2024, 100: 104167.**（中科院一区****Top****）**
+2. **Wei Meng**, Cai Zhi, Song Yan*, et al. Spatiotemporal Evolutionary Characteristics and Driving Forces of Carbon Emissions in Three Chinese Urban Agglomerations[J]. *Sustainable Cities and Society*, 2024: 105320.**（中科院一区****Top****）**
+3. **Meng Wei**, Jiangang Xu***.** Resilience Assessment of Traffic Networks in Coastal Cities under Climate Change: A Case Study of One City with Unique Land Use Characteristics[J]. *Land*, 2022, 11(10): 1834.**（中科院二区）**
+4. **Meng Wei**, Huang Yong*, Wan Dan, et al. Emergency road network structure and planning optimization in mountainous regions in Southwest China under earthquake scenarios[J]. *Journal of Mountain Science*. 2022, 19(3): 771-780. **（中科院三区）**
+5. **Meng Wei,** Fang S J, Chen S, et al. Resilience Assessment of Road Networks in the Extremely Severe Disaster Areas of the Wenchuan Earthquake[J]. *Frontiers in earth science*. 2022, 10(834302). **（中科院三区）**
+6. **Meng Wei**, Jiangang Xu*, et al. Studying the Impact Mechanism of Carbon Emissions in Typical Urban Agglomerations in China: A Case Study of the Yangtze River Delta[J].*China City Planning Review*,2023.**（核心,CSCD）**
+7. **魏猛,** 蔡智, 徐建刚, 宋彦*等. 中国城市群碳排放特征与影响机制分析 [J]. *环境科学学报*, 1-11[2024-05-06].**（核心,CSCD）**
+8. 黄勇（硕导），**魏猛****.** 西南山地多灾区域道路网络可靠性规律分析[J].*同济大学学报(自然科学版)*,2020,48(04):526-535.**（核心,EI,CSCD）**
+9. **Meng Wei,** Taihu Lake City Circle Transportation Evolution and Spatial Effects，*2024 ACSP 64th Annual Conference***（美国规划院校年会录用并宣讲）**
+10. **Meng Wei,** Jiangang Xu*, Multi-modal Transportation Network Resilience in Lake Taihu Basin Urban Agglomeration, China，*36th Aesop Annual Congress 2024*.**（欧洲规划院校年会录用）**
+11. **Meng Wei,** Jiangang Xu*, Resilience evaluation and spatial analysis of transportation networks in typical plain water network areas and mountainous areas in China, The 16th International Association for China Planning (IACP) Annual Conference **(Peer-reviewed and Conference presentation)** **（国际会议IACP录用并宣讲）**
+12. **Meng Wei,** Jiangang Xu*,Coupling Analysis Framework Of Technology Assessment And Planning Policy:Improving The Resilience Of Key Facilities, The 5th World Planning Schools Congress and 16th Asian Planning Schools Association Congress in Bali, Indonesia **(Peer-reviewed)** **（世界规划大会录用）**
 
-## Conference Paper
-
-- Poster: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services ([MobiSys 2024](https://www.sigmobile.org/mobisys/2024/))<br>Tokyo, Japan. June, 2024.
-
-  <br>
-
-
----
-
-## Degree Thesis
-
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). Best Project Award (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at [China Huading Tech](http://www.hdim.com.cn/) and [IIoT Lab](https://dqxy.fzu.edu.cn/en/)<br>
-
-  <br>
+**另：有3篇英文（中科院一区2篇，二区1篇）和1篇中文核心论文正在审稿。**
 
 ---
 
-## Manuscript
+### 专利：
 
-TBA.
-
-<br>
+- 黄勇（硕导）、**魏猛**（发明人）、张然. 发明专利 “一种道路网络可靠性评估方法、系统、终端及介质” 中国，2018115918298，发明专利
 
 ---
 
-## Early Project
+### 审稿人：
 
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://www.researchgate.net/publication/378144932)<br>*Final year project (FYP).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>AAAI Conference on Artificial Intelligence. Undergraduate Consortium.<br>Vancouver, Canada. February, 2024.
+受邀担任 Land Degradation & Development；Journal of Infrastructure；Policy and Development等期刊审稿人。
 
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
 
-- An IoT Garbage Monitoring System for Effective Garbage Management<br>*First-year course design.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
 
-  <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
