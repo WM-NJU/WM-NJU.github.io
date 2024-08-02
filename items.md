@@ -1,38 +1,19 @@
 ---
 layout: page
-permalink: /awards/index.html
-title: Awards
+permalink: /items/index.html
+title: items
 ---
 
-> Lastest Update: 20th May 2024 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
+## 科研项目
 
-## Scholarships
-
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- May 2024：Shiran Innovation Sponsorship ($1400)<br>One of the highest research awards in my school
-- Aug 2023：FEPG Scholarship ($1400)<br>One of the highest undergraduate awards in my school
-- May 2023：XiamenAir Scholarship ($600)<br>
-- June 2024：Best Final Year Project Award of Maynooth (€500)
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Course Project Award of Maynooth (€100)
-- First Prize Scholarship of MIEC ($2100, **Four times**)<br>Combined degree scholarship between FZU and Maynooth<br>
-
-## Competitions (Selected)
-
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：**<font color='red'>Best Technology Award</font>** in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- June 2023：First Prize (Provincial championship) in Fujian Youth Science Innovation Project Competition (Top 3%)
-- May 2023：**<font color='red'>Finalist Award</font>** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
-
-## Services
-
-- Dec 2023 - Present：AAAI Student Membership
-- Sep 2022 - Present：IEEE Student Membership
-- Sep 2022 - Present：CAAI Student Membership
-- April 2022：Top 10 Best Volunteers (Only 10/30000) of Fuzhou University
-- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee of FZU
-- July 2021：Outstanding volunteer at the 44th session of the World Heritage Committee
-- April 2021：Outstanding volunteer at the 4th Digital China Summit<br>
+- 【2021.09-至今】国家自然科学基金-基于复杂系统模拟的跨区域国土空间韧性耦合机制与规划方法研究——以长三角地区为例*(5217080082)*，65万元，在研。
+  - **子课题负责人**，参与申报和负责子专题研究工作。
+- 【2019.04-2023.01】国家十三五重点研发计划“绿色宜居村镇技术创新”重点专项，村镇空间扩展的时空模拟关键技术实施方案*(2018YFD1100804)*，298万元，结题。
+  - **参与人**，参与申报和研究工作，包括会议组织、整理相关文献等。
+- 【2020.08-2021.08】上海市城市总体规划（2017-2035年）、长三角一体化示范区先行启动区国土空间规划、上海市崇明区国土空间规划、上海市虹桥商务区控制性详细规划、上海市临港产业片区郊野单元规划
+- 【2019.03-至今】烟台市域村镇道路系统可靠性专题研究，10万元，已结。
+  - **项目负责人**，参与项目全程工作，包括框架设计、报告撰写、课题对接、结题工作等。
+- 【2018.10-2019.03】重庆长寿区瑞映山-纯阳山历史文化街区保护，100万元，已结。
+  - **项目负责人之一**，参与项目后期工作，包括图纸修改、课题对接、会议安排、材料撰写等。
+- 【2017.08-2018.04】大渡河三级电站流域旅游度假区总体规划，180万元，结题。
+  - **项目分任务负责人之一**，参与项目全程工作，包括现场调研、框架设计、课题对接、材料撰写等。
