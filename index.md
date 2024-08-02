@@ -2,44 +2,45 @@
 layout: page
 ---
 
-# 简介
+### 简介
 
-​	Hi~ 我是**魏猛**，就读于南京大学建筑与城市规划学院城乡规划专业，目前是博士四年级。我硕士就读于重庆大学建筑城规学院城乡规划专业。我的硕士导师是黄勇教授，博士导师是徐建刚教授。我的研究兴趣如下：**气候变化背景下的国土空间可持续发展**，包括绿色可持续研究（**聚焦区域碳排放影响机制**）、安全可持续研究（**聚焦交通网络韧性**）等。
+​        Hi~ 我是**魏猛**，就读于南京大学建筑与城市规划学院城乡规划专业，目前是博士四年级。我硕士就读于重庆大学建筑城规学院城乡规划专业。我的硕士导师是黄勇教授，博士导师是徐建刚教授。我的研究兴趣如下：**气候变化背景下的国土空间可持续发展**，包括绿色可持续研究（**聚焦区域碳排放影响机制**）、安全可持续研究（**聚焦交通网络韧性**）等。
 
-​	我的电子邮件：569101747@qq.com，欢迎与我交流合作！
+​        我的电子邮件：569101747@qq.com，欢迎与我交流合作！
 
-## Academic Background
+### 教育背景
 
-- **Sep 2024 - Future:** Cambridge University (Incoming EE MPhil, supervised by [Prof. Ozgur B. Akan](https://ioe.eng.cam.ac.uk/directory/akan))
-- **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
-- **Sep 2020 - June 2024:** Fuzhou University (BEng, EECS)
-- **June 2022 - Nov 2022:** Cambridge University (Internship)
+- **2021.09 - Now：** **南京大学**        城乡规划        博士
 
----
+  ​                                    **美国北卡罗来纳大学教堂山分校（UNC）**        联合培养
 
-## Research Interests
+- **2017.09 - 2020.06：** **重庆大学**        城乡规划        硕士
 
-- Internet of Everything
-- Cyber-Physical System
-- Industrial Informatics
-- Applied Machine Learning
-- [My latest research proposal (Dec 2023)](https://caihanlin.com/file/proposal-2023.pdf)🔗
+  ​                                    **新加坡国立大学**        访学
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+- **2012.09 - 2017.06：** **安徽农业大学**        城乡规划、风景园林        双学士
 
 ---
 
-## News and Updates
+### 工作经历
 
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/call-for-undergraduate-consortium/). See you in Spain!
-- **May 2024：**My undergraduate thesis won the Best Project Award (Top 1/300).
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
-- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- 2020.07-2021.08：上海市城市规划设计院(一所: 总体规划研究中心)        规划师
+- 2019.07-2019.09：绿城中国房地产集团（杭州总部）                               规划设计岗
+- 2017.09-2019.09：重庆大学城市规划设计研究院（导师工作室）            助理规划师
+- 2016.01-2016.03   南京大学城市规划设计研究院（城市区域所）             助理规划师
+- 2015.07-2015.09   广州市天作建筑设计院（合肥分公司）                         助理建筑师
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+---
+
+### 研究兴趣
+
+- 气候变化背景下的国土空间可持续发展
+- 绿色可持续研究（聚焦区域碳排放影响机制）
+- 安全可持续研究（聚焦交通网络韧性）
+
+---
+
+
+
+
 
